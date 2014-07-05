@@ -17,7 +17,7 @@ public class Test extends Activity {
 		// Inflate the menu; this adds items to the action bar if it is present.
 		getMenuInflater().inflate(R.menu.test, menu);
 		
-		return false;
+		return true;
 	}
 
 }
