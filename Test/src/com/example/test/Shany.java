@@ -1,5 +1,6 @@
 package com.example.test;
 
 public class Shany {
-	int i = 0;
+	int i = 9;
+	
 }
